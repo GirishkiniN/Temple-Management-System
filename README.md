@@ -21,3 +21,12 @@ Admin :
 Users :
 1. Can open the URL, select the Temple to view the details or do booking.
 2. Can do the booking to the respective temple and generate the invoice.
+
+
+How to run this project locally
+
+1. clone this repo to www folder in WAMP software
+2. Open phpmydmin & Create new database with name projet
+3. import the SQL file present in SQL Files Folder using import option in phpmyadmin.
+4. changes credentials in sql.php file with your database credentials.
+5. open localhost in browser. you see the home page
